@@ -1,0 +1,5 @@
+streamlit==x.y.z
+pandas==x.y.z
+numpy==x.y.z
+matplotlib==x.y.z
+vaderSentiment==x.y.z
